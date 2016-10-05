@@ -8,3 +8,5 @@ Project is for an Arduino UNO (or Duemilanove?) with a shield 2.4 TFT LCD 240x32
 * [Original Project description](http://apcmag.com/arduino-project-make-digital-photo-frame.htm/)
 
 **Warning**: display I've linked has no Touch Screen, some examples in the directory requires touch screen. For a simple Photoframe, touch screen is not needed
+
+![image](https://photos.google.com/share/AF1QipOOrqpKd-cvQUrsIfhoVWy5dRkHh_fhxnP_H8g9BJzX-8nEUQpSl9Vk6Fe8AOhcOg/photo/AF1QipOV-io3p8Ne-HEfkeyD8Z_-3Xgsf5801D3WQP2G?key=ODVrdDJpWDd2MnpPSGxNUDVIUVFlTTBZa3U0Z1NR)
