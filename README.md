@@ -3,7 +3,8 @@
 This is the project I've used for the TV in the Rita's Dolls House.
 Project is for an Arduino UNO and Duemilanove (both tested) with a shield 2.4 TFT LCD 240x320 pixels + microSD card reader. 
 
-Images MUST BE in BMP format, 320x240. Each BMP image is 225Kb/228Kb. An old SD card of 128Mb will contain about 574 images.
+Images MUST BE in BMP format, 320x240, mirrored from right to left. 
+Each BMP image is 225Kb/228Kb. An old SD card of 128Mb will contain about 574 images.
 Image filenames MUST BE in 8.3 format. My SD is formatted with FAT filesystem.
 
 **Arduino Leonardo and other Arduino models are not suitable!**
