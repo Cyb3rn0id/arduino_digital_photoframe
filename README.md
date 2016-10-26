@@ -1,7 +1,10 @@
 # Arduino Digital Photoframe
 
 This is the project I've used for the TV in the Rita's Dolls House.
-Project is for an Arduino UNO (or Duemilanove?) with a shield 2.4 TFT LCD 240x320 pixels + microSD card reader. Arduino Leonardo and other Arduino models are not suitable!
+Project is for an Arduino UNO and Duemilanove (both tested) with a shield 2.4 TFT LCD 240x320 pixels + microSD card reader. 
+
+**Arduino Leonardo and other Arduino models are not suitable!**
+(maybe using new libraries from Adafruit?)
 
 * [Link to a compatible display I've purchased and successfully tested](http://www.ebay.it/itm/2-4-TFT-LCD-Visualizzazione-panel-SD-carta-240x320-Arduino-Elettronica-Shield-/331769583790?hash=item4d3f0218ae:g:48oAAOSwJb9Ws3rI)
 * [Original firmware](http://apcmag.com/arduino.htm/)
